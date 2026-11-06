@@ -1,5 +1,7 @@
 # Google Hotels Price Calendar
 
+![Google Hotels Price Calendar](https://raw.githubusercontent.com/smoldesk/apify-scrapers/main/assets/hotel-calendar/banner.webp)
+
 Get the cheapest nightly rate for every check-in date, up to a year ahead, for any hotel on Google Hotels. Give it a hotel name or Google Hotels link, your guests, stay length and currency. No login, no API key. Runs on [Apify](https://apify.com/smoldesk/google-hotel-price-calendar).
 
 ## What you get
